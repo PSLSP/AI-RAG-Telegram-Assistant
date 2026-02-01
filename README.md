@@ -393,7 +393,8 @@ python app.py
 
 ## 👥 Авторы
 
-- **Ваше имя** - [@yourusername](https://github.com/yourusername)
+- **PSLSP** - [@pslsp](https://github.com/pslsp)
+- **Zerocoder** - [Университет Zerocoder](https://university.zerocoder.ru/)
 
 ## 🙏 Благодарности
 
@@ -402,6 +403,7 @@ python app.py
 - [FAISS](https://github.com/facebookresearch/faiss) - за быстрый векторный поиск
 - [Anthropic](https://www.anthropic.com) - за Claude модели
 - [OpenAI](https://openai.com) - за embeddings модели
+- [Daniil Sobolev](https://github.com/MrGAN12009)
 
 ## 📞 Контакты
 
