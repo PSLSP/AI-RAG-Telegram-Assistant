@@ -279,6 +279,7 @@ rag-telegram-assistant/
 ### Детальные результаты
 
 ![Детальные результаты](screenshots/detailed_results.png)
+
 *Детальные результаты оценки по каждому вопросу*
 
 ## 🔧 Разработка
